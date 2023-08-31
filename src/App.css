@@ -1,0 +1,20 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: #fff;
+  color: black;
+}
+footer{
+  height: 90px;
+  margin-top: 200px;
+  background-color: blue;
+} */
+tbody{
+  display: flex;
+  justify-content: space-around;
+}
